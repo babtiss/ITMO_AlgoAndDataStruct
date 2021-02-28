@@ -24,3 +24,18 @@
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/6%20lab/4.py"> 4.MultiMap </a> <br/>
 <h3> 7 lab. АВЛ-деревья. </h3>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/7%20lab/1.py"> 1.Проверка сбалансированности </a> <br/>
+<h3> 8 lab. Графы, dfs, bfs, определения </h3>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/8%20lab/1.py"> 1.Список рёбер -> матрица смежности </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/8%20lab/2.py"> 2.Проверка на ориентированность </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/8%20lab/3.py"> 3.Проверка на параллельные рёбра </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/8%20lab/4.py"> 4.Компоненты связности </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/8%20lab/5.py"> 5.Кратчайший путь в невзвешанном графе </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/8%20lab/6.py"> 6.Лабиринт </a> <br/>
+<h3> 9 lab. Графы, чуть посложнее </h3>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/9%20lab/1.py"> 1.Топологическая сортировка </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/9%20lab/2.py"> 2.Поиска цикла </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/9%20lab/3.py"> 3.Дведольный граф </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/9%20lab/4.py"> 4.Конденсация графа </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/9%20lab/5.py"> 5.Гамильтонов путь </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/9%20lab/6.py"> 6.Игра </a> <br/>
+<h4> Да-да, решал через стэк </h4>
