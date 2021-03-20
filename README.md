@@ -46,3 +46,10 @@
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/9%20lab/5.py"> 5.Гамильтонов путь </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/9%20lab/6.py"> 6.Игра </a> <br/>
 <h4> P.s. Решение через стэк ( why ? - так надо ) </h4>
+<h3> 10 lab. Графы, MST </h3>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/10%20lab/problems10.pdf"> Условие </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/10%20lab/1.py"> 1.Степени вершин </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/10%20lab/2.py"> 2.Остовное дерево </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/10%20lab/3.py"> 3.Остовное дерево посложнее </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/10%20lab/4.py"> 4.Китайцы - не решена </a> <br/>
+
