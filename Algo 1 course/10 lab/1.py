@@ -1,3 +1,5 @@
+''' Считаем число "входящих" и "выходящих" дуг'''
+
 f=open('input.txt', 'r')
 t=open('output.txt','w')
 s=f.readline().split()
