@@ -1,3 +1,6 @@
+'''
+Основное свойство неубывающей пирамиды: a[i]<=a[2*i] and a[i]<=a[2*i+1] для 1<=i<=n.
+'''
 f=open('isheap.in', 'r')
 n=int(f.readline())
 a=(f.readline().split())
