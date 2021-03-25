@@ -1,3 +1,6 @@
+'''
+Сложность алгоритма: O(n log n)
+'''
 f=open('sort.in', 'r')
 n=int(f.readline())
 a=(f.readline().split())
