@@ -1,6 +1,6 @@
 # ITMO_AlgoAndDataStruct
 <h2> 1 course / 1 sem </h3>
-<h3> 3 lab. Пирамидальная, цифровая сортировки. </h3>
+<h3> 3 lab. Пирамидальная, цифровая сортировки. </h3><br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/3%20lab/problems3.pdf"> Условие </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/3%20lab/1.py"> 1.Пирамида ли ? </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/3%20lab/2.py"> 2.Пирамидальная сортировка  </a> <br/>
