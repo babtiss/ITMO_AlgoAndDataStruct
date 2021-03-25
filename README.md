@@ -29,6 +29,7 @@
 <h3> 7 lab. АВЛ-деревья. </h3>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/7%20lab/problems7.pdf"> Условие </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/7%20lab/1.py"> 1.Проверка сбалансированности </a> <br/>
+<h2> 1 course / 2 sem </h3>
 <h3> 8 lab. Графы, dfs, bfs, определения </h3>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/8%20lab/problems8.pdf"> Условие </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/8%20lab/1.py"> 1.Список рёбер -> матрица смежности </a> <br/>
