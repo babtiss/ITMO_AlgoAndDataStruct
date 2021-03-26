@@ -55,8 +55,8 @@
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/10%20lab/4.py"> 4.Китайцы - не решена </a> <br/>
 <h3> 11 lab. Графы, Кратчайшие пути. Дейкстра, Форд-Белман </h3>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/problems11.pdf"> Условие </a> <br/>
-<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/1.py"> Кратчайший путь </a> <br/>
-<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/2.py"> Кратчайший путь от каждой вершины до каждой </a> <br/>
-<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/3.py"> Кратчайший путь от первой до всех остальных </a> <br/>
-<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/4.py"> Длина кратчайшего пути из s до остальных </a> <br/>
-<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/5.py"> Цикл отрицательного веса </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/1.py"> 1.Кратчайший путь </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/2.py"> 2.Кратчайший путь от каждой вершины до каждой </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/3.py"> 3.Кратчайший путь от первой до всех остальных </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/4.py"> 4.Длина кратчайшего пути из s до остальных </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/5.py"> 5.Цикл отрицательного веса </a> <br/>
