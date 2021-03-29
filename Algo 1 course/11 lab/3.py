@@ -1,4 +1,7 @@
 from heapq import heappush, heappop
+'''
+Юзаем двоичную кучу и радуемся что Дейкстра работает за O(n*logn).
+'''
 def main():
     fin = open("pathbgep.in")
     fout = open("pathbgep.out", "w")
