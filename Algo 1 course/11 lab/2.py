@@ -1,3 +1,6 @@
+'''
+Ну тут даже Форд-Белман за O(n^3) зашёл
+'''
 def main():
     fin=open("pathsg.in")
     fout=open("pathsg.out", "w")
