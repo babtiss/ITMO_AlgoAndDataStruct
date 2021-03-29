@@ -60,3 +60,4 @@
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/3.py"> 3.Кратчайший путь от первой до всех остальных </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/4.py"> 4.Длина кратчайшего пути из s до остальных </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/5.py"> 5.Цикл отрицательного веса </a> <br/>
+*jopa*
