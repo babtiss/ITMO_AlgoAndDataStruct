@@ -60,3 +60,11 @@
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/3.py"> 3.Кратчайший путь от первой до всех остальных </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/4.py"> 4.Длина кратчайшего пути из s до остальных </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/11%20lab/5.py"> 5.Цикл отрицательного веса </a> <br/>
+<h3> 12 lab. Динамическое программирование </h3>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/problems12n.pdf"> Условие </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/1.py"> 1.Наибольшая возрастающая подпоследовательность </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/4.py"> 4.Ход конём (2 версия) </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/5.py"> 5.Выбор вершин дерева </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/6.py"> 6.Дерево(сумма) </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/7.py"> 7.Рюкзак </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/8.py"> 8.Футболки </a> <br/>
