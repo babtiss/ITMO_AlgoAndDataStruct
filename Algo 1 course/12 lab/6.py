@@ -1,3 +1,4 @@
+#Тот же смысл что и в прошлой задаче, только теперь в ответ пишем номер вершины.
 def get_independent_set(u):
     global n,answer
     if answer[u]:
