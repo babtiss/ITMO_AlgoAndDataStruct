@@ -75,3 +75,4 @@
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/13%20lab/2.py"> 2. Поиск подстроки в строке </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/13%20lab/3.py"> 3. Префикс функция </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/13%20lab/4.py"> 4. Автомат КМП </a> <br/>
+<a href="https://neerc.ifmo.ru/wiki/index.php?title=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%90%D1%85%D0%BE-%D0%9A%D0%BE%D1%80%D0%B0%D1%81%D0%B8%D0%BA"> Ссылочка </a> <br/>
