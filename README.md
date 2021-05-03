@@ -69,3 +69,9 @@
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/6.py"> 6.Дерево(сумма) </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/7.py"> 7.Рюкзак </a> <br/>
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/12%20lab/8.py"> 8.Футболки </a> <br/>
+<h3> 13 lab. Поиск подстроки </h3>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/13%20lab/problems13n.pdf"> Условие </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/13%20lab/1.py"> 1. Наивный поиск подстроки в строке </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/13%20lab/2.py"> 2. Поиск подстроки в строке </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/13%20lab/3.py"> 3. Префикс функция </a> <br/>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/13%20lab/4.py"> 4. Автомат КМП </a> <br/>
