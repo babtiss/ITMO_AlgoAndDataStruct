@@ -18,8 +18,7 @@ def convert(root):
         l = root.left
         r = root.right
         return ZNode(a, convert(l), convert(r))
-    else:
-        return None
+    return root
 
 
 def main():
