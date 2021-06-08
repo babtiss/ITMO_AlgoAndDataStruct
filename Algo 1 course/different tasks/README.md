@@ -49,3 +49,4 @@ Sample Output:
 ```sh
 2
 ```
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/different%20tasks/merde_sort.py"> Решение </a> <br/>
