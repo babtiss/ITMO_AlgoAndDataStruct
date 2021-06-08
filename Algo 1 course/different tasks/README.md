@@ -10,18 +10,18 @@
 Для каждой точки в порядке появления во вводе выведите, скольким отрезкам она принадлежит.
 ```
 
-```sh
 Sample Input:
 
+```sh
 2 3
 0 5
 7 10
 1 6 11
 ```
 
-```sh
 Sample Output:
 
+```sh
 1 0 0
 ```
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/different%20tasks/points_and_segments.py"> Решение </a> <br/>
