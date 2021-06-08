@@ -84,3 +84,4 @@
 
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/structures/%D0%A1%D0%B2%D1%8F%D0%B7%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA.py"> Связный список </a> <br/>
 <h2> Разные таски </h2>
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/tree/main/Algo%201%20course/different%20tasks"> tasks </a> <br/>
