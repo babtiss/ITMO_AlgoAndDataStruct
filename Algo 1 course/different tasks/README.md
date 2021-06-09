@@ -73,3 +73,4 @@ Sample Output:
 4
 1 3 4 5 
 ```
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/different%20tasks/nvp.py"> Решение </a> <br/>
