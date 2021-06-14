@@ -74,3 +74,25 @@ Sample Output:
 1 3 4 5 
 ```
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/different%20tasks/nvp.py"> Решение </a> <br/>
+
+<h2> Калькулятор </h2>
+
+```sh
+У вас есть примитивный калькулятор, который умеет выполнять всего три операции с текущим числом x:
+заменить x на 2x, 3x или x+1. По данному целому числу 1≤n≤10^5
+определите минимальное число операций k, необходимое, чтобы получить n из 1.
+Выведите k и последовательность промежуточных чисел.
+```
+Sample Input:
+
+```sh
+96234
+```
+
+Sample Output:
+
+```sh
+14
+1 3 9 10 11 22 66 198 594 1782 5346 16038 16039 32078 96234
+```
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/different%20tasks/calculator.py"> Решение </a> <br/>
