@@ -96,3 +96,27 @@ Sample Output:
 1 3 9 10 11 22 66 198 594 1782 5346 16038 16039 32078 96234
 ```
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/different%20tasks/calculator.py"> Решение </a> <br/>
+
+<h2> Все перестановки </h2>
+
+```sh
+Вводится число n. Требуется вывести все перестановки числе от 1 до n (порядок - лексикографический).
+```
+Sample Input:
+
+```sh
+3
+```
+
+Sample Output:
+
+```sh
+1 2 3
+1 3 2
+2 1 3
+2 3 1
+3 1 2
+3 2 1
+```
+
+<a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/different%20tasks/all_perm.py"> Решение </a> <br/>
