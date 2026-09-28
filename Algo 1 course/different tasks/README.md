@@ -120,3 +120,35 @@ Sample Output:
 ```
 
 <a href="https://github.com/babtiss/ITMO_AlgoAndDataStruct/blob/main/Algo%201%20course/different%20tasks/all_perm.py"> Решение </a> <br/>
+
+### есть две неубывающие последовательности длины A и B. вернуть из первой последовательности элементы, которых нет во второй
+
+```
+a = [1, 2, 3, 4, 5]
+b = [2, 4, 6]
+
+first = 0
+second = 0
+result = []
+
+while first<len(a):
+    while second < len(b) and a[first] > b[second]:
+        second += 1
+    if second == len(b) or a[first] < b[second]:
+        result.append(a[first])
+
+    first += 1
+
+
+print(result)
+```
+
+### N наибольших
+
+```
+import heapq
+
+def n_largest(arr, n):
+    return heapq.nlargest(n, arr)
+```
+
