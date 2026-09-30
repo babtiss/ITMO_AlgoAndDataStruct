@@ -152,3 +152,22 @@ def n_largest(arr, n):
     return heapq.nlargest(n, arr)
 ```
 
+### Найти число подмассивов суммой k
+
+nums = [1, -1, 1]
+k = 1
+Ответ: 3
+
+```
+nums = [1, -1, 1]
+
+k = 1
+freq = {0: 1}
+current_sum = 0
+count = 0
+
+for x in nums:
+    current_sum += x
+    count += freq.get(current_sum - k, 0)
+    freq[current_sum] = freq.get(current_sum, 0) + 1
+```
